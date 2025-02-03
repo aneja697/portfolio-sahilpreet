@@ -1,0 +1,71 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Northeastern University",
+            "degree": "Align Master of Science in Computer Science",
+            "duration": "Aug 2023 - Present",
+            "content": [
+                "GPA: 4/4",
+                "Courses: Data Structures and Algorithms, Object-Oriented Design and Analysis, Database Management System, Machine Learning, Web Development"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Thapar Institute of Engineering and Technology",
+            "degree": "Bachelors of Technology in Mechatronics Engineering ",
+            "duration": "July 2017 - May 2021",
+            "content": [
+                "GPA: 8.25/10",
+                "Courses: Control Systems, Embedded Systems, Power Electronics, Robotics Engineering, System Modelling and Simulation, Advanced Industrial Engineering"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "HeroMotocorp",
+            "position": "Assistant Manager - Maintenance",
+            "duration": "August 2021 - March 2023",
+            "description": [
+                "Implemented advanced IoT sensor network for maintenance system modernization, achieving 25% downtime reduction through data-driven predictive analytics.​",
+                "Directed cross-functional maintenance team in implementing sustainable solutions, resulting in substantial annual energy savings of 38,000 kWh through integration of hanger tracking system with motors in paint shop using PLC programming.",
+                "Spearheaded industrial automation initiatives by reviving critical AGV systems through systematic troubleshooting and technical root cause analysis."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Languages",
+            "tools": [
+                "Java",
+                "Python",
+                "C/C++",
+                "TypeScript",
+                "JavaScript",
+                "NoSQL",
+                "SQL"
+            ]
+        },
+        {
+            "title": "Tools",
+            "tools": ["Git/GitHub", "AWS", "VS Code", "IntelliJ IDEA", "Eclipse", "Postman", "MATLAB", "SOLIDWORKS"]
+        },
+        {
+            "title": "Framework & Databases",
+            "tools": ["React", "NodeJS", "MongoDB", "DynamoDB", "PostgreSQL", "MySQL"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+Welcome 👋 I'm a highly motivated Mechatronics Engineer currently pursuing a Master's in Computer Science at Northeastern University. I'm seeking an internship opportunity to continue growing professionally. With a passion for exploring the inner workings of everyday objects, I have a proven track record of successfully applying electro-mechanical concepts to solve complex problems. My journey in computer science is equipping me with a diverse skill set, blending engineering expertise with cutting-edge technology. I’m excited to contribute to innovative solutions in the ever-evolving world of technology and engineering. 
+
+I’m always excited to learn new skills and tackle complex challenges in both software and hardware domains. Feel free to connect with me! 🚀

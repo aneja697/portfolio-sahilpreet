@@ -1,0 +1,30 @@
+{
+    "name": "Sahilpreet Aneja",
+    "logoType": {
+        "mobile": "SA",
+        "desktop": "Sahilpreet Aneja"
+    },
+    "mainPicture": "/assets/SA.webp",
+    "mainPictureJPG": "/assets/SA.jpeg",
+    "pronunciation": "/sa-hil-preet/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "sa",
+    "email": "aneja0512@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sahilpreet-aneja-89b68a157/",
+    "github": "https://github.com/aneja5",
+    "resume": "https://drive.google.com/file/d/1PFxkjSj8YZf85IdxiCmm0zwmAUdz36in/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/sahilpreet-aneja-89b68a157/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/aneja5"
+        },
+        {
+            "type": "mail",
+            "link": "aneja0512@gmail.com"
+        }
+    ]
+}
