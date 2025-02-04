@@ -33,10 +33,10 @@
     },
     {
         "id": "other-project-rideshare-validation",
-        "title": "Ride-Sharing Driver Validation System",
+        "title": "Rideshare Driver Validation System",
         "year": "Apr 2024",
-        "github": "",
-        "tags": ["Java", "JUnit"],
+        "github": "https://github.com/aneja5/Rideshare-Driver-Registration-System.git",
+        "tags": ["Java", "JUnit", "OOP"],
         "description": "A Java-based system was developed for driver registration and validation, ensuring compliance with license, vehicle, and insurance requirements. OOP principles and File I/O were used to filter ineligible drivers, with querying features for driver details and a 90% test coverage achieved through JUnit testing.",
         "image": "/assets/other-projects/rideshare.webp",
         "jpg": "/assets/other-projects/rideshare.jpeg"
