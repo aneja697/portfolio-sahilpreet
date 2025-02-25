@@ -24,7 +24,6 @@
         "title": "CatX - Twitter Clone",
         "year": "Nov 2024 - Dec 2024",
         "github": "https://github.com/aneja5/sahilpreet-aneja-catX.git",
-        "demo": "https://sahilpreet-aneja-project3.onrender.com",
         "tags": ["MongoDB", "Express", "NodeJs", "React", "Render"],
         "description": "A social media app similar to Twitter was built using MongoDB, Express, React, and Node.js, allowing users to post updates, manage profiles, and interact. Secure logins and a smooth, mobile-friendly design were implemented, and the app was successfully deployed online.",
         "image": "/assets/other-projects/black-cat.webp",
