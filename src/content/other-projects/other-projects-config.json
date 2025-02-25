@@ -10,6 +10,16 @@
 
     },
     {
+        "id": "other-movie-reccomendation-system",
+        "title": "Movie Recommendation System",
+        "year": "Feb 2025 - Present",
+        "tags": ["Python", "Pandas", "NumPy", "LLM", "FAISS", "Scikit-learn"],
+        "description": "Developing a movie recommendation system using the Netflix dataset and LLM-based embeddings. Leveraging FAISS for efficient similarity search and Pandas/NumPy for data preprocessing. Implementing semantic search with Scikit-learn for vector operations and similarity calculations. Currently optimizing performance and exploring deployment with Flask/FastAPI and visualization via Streamlit.",
+        "image": "/assets/other-projects/vector-embedding-model.webp",
+        "jpg": "/assets/other-projects/vector-embedding-model.jpeg"
+
+    },
+    {
         "id": "other-project-cat-x",
         "title": "CatX - Twitter Clone",
         "year": "Nov 2024 - Dec 2024",
